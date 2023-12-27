@@ -52,3 +52,9 @@ The color palette was chosen using [Accessible Palette](https://accessiblepalett
 ### Font
 
 The font used on application is [Mulish](https://fonts.google.com/specimen/Mulish) from Google Fonts.
+
+## TODOs
+
+- Add age rating to the movie details
+- Tests
+- Configure build system
