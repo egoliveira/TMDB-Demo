@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity.kt -->
+    <string name="main_activity_movie_section_now_playing">Em Cartaz</string>
+    <string name="main_activity_movie_section_popular">Popular</string>
+    <string name="main_activity_movie_top_rated">Bem Avaliados</string>
+    <string name="main_activity_movie_upcoming">Pŕoximos</string>
+
+    <!-- MovieList.kt -->
+    <string name="movie_list_empty_movies_section_message">Não há filmes nesta seção</string>
+    <string name="movie_list_error_loading_movies_section_error_message">
+        Ocorreu um erro ao carregar os filmes desta seção
+    </string>
+    <string name="movie_list_try_again_button">Tentar Novamente</string>
+    <string name="movie_list_could_not_load_more_movies_error_message">
+        Não foi possível carregar mais filmes nesta seção
+    </string>
+
+    <!-- MovieDetails.kt -->
+    <string name="movie_details_plot_summary_title">Resumo do Enredo</string>
+    <string name="movie_details_plot_summary_not_available">Resumo do enredo não disponível</string>
+    <string name="movie_details_cast_title">Elenco</string>
+    <string name="movie_details_error_loading_movie_details_message">
+        Ocorreu um erro ao carregar os detalhes do filme
+    </string>
+    <string name="movie_details_try_again_button_title">Tentar Novamente</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TMDB Demo</string>
+
+    <!-- MainActivity.kt -->
+    <string name="main_activity_movie_section_now_playing">Now Playing</string>
+    <string name="main_activity_movie_section_popular">Popular</string>
+    <string name="main_activity_movie_top_rated">Top Rated</string>
+    <string name="main_activity_movie_upcoming">Upcoming</string>
+
+    <!-- MovieList.kt -->
+    <string name="movie_list_empty_movies_section_message">There\'s no movies in this section</string>
+    <string name="movie_list_error_loading_movies_section_error_message">
+        An error has occurred while loading movies of this section
+    </string>
+    <string name="movie_list_try_again_button">Try Again</string>
+    <string name="movie_list_could_not_load_more_movies_error_message">
+        Could not load more movies in this section
+    </string>
+
+    <!-- MovieDetails.kt -->
+    <string name="movie_details_movie_length_minutes" translatable="false">%1$dmin</string>
+    <string name="movie_details_movie_length_hours" translatable="false">%1$dh</string>
+    <string name="movie_details_movie_length_hours_minutes" translatable="false">
+        %1$dh %2$dmin
+    </string>
+    <string name="movie_details_plot_summary_title">Plot Summary</string>
+    <string name="movie_details_plot_summary_not_available">Plot summary not available</string>
+    <string name="movie_details_cast_title">Cast</string>
+    <string name="movie_details_slash" translatable="false">/</string>
+    <string name="movie_details_out_of" translatable="false">10</string>
+    <string name="movie_details_error_loading_movie_details_message">
+        An error has occurred while loading movie details
+    </string>
+    <string name="movie_details_try_again_button_title">Try Again</string>
+</resources>
