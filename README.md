@@ -1,7 +1,7 @@
 # TMDB Demo
 Sample Android application which uses [TMDB's API](https://developer.themoviedb.org/docs).
 
-It provides some movie cantegories where the user can found a list of movies: 
+It provides some movie categories where the user can found a list of movies: 
 
 - Now Playing
 - Popular
