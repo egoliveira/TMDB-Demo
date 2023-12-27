@@ -29,11 +29,11 @@ The application has both light and dark themes:
 
 ## I18N
 
-The application also supports Brazillian Portuguese as language, according to the system settings. Calls to TMDB's API are done using these settings:
+The application also supports Brazilian Portuguese as language, according to the system settings. Calls to TMDB's API are done using these settings:
 
 <br/>
 
-|![Main Screen, Brazillian Portuguese](./docs/images/main_screen_dark_ptbr.png)| ![Movie Details Screen, Brazillian Portuguese](./docs/images/details_screen_1_dark_ptbr.png)| ![Movie Details Screen, Brazillian Portuguese](./docs/images/details_screen_2_dark_ptbr.png)|
+|![Main Screen, Brazilian Portuguese](./docs/images/main_screen_dark_ptbr.png)| ![Movie Details Screen, Brazilian Portuguese](./docs/images/details_screen_1_dark_ptbr.png)| ![Movie Details Screen, Brazilian Portuguese](./docs/images/details_screen_2_dark_ptbr.png)|
 
 ## Resources
 
