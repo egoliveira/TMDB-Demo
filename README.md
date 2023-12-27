@@ -39,7 +39,7 @@ The application also supports Brazillian Portuguese as language, according to th
 
 ### Layout
 
-The application layout was based on this [Figma prototype](https://dribbble.com/shots/10795979-Movie-App-Free) made by [Simantoo](simantoo@gmail.com).
+The application layout was based on this [Figma prototype](https://dribbble.com/shots/10795979-Movie-App-Free) made by [Simantoo](mailto:simantoo@gmail.com).
 
 ### Application Icon
 
