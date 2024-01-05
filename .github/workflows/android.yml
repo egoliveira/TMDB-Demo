@@ -24,5 +24,12 @@ jobs:
       run: chmod +x gradlew
     - name: Create local.properties file in data module
       run: echo "TMDB_BEARER_TOKEN=\"${{ env.TMDB_BEARER_TOKEN }}\"" > data/local.properties
+    - name: Store artifacts
+      uses: actions/upload-artifact@v3
+      with:
+          name: apk-files
+          path: app/build/outputs/apk/debug/*.apk
+    - name: Remove local.properties file from data module
+      run: rm data/local.properties
     - name: Build with Gradle
       run: ./gradlew assembleDebug
