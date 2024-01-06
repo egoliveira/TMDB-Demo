@@ -22,7 +22,7 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Create local.properties file in data module
-      run: echo "TMDB_BEARER_TOKEN=\"${{ env.TMDB_BEARER_TOKEN }}\"" > data/local.properties
+      run: echo "TMDB_BEARER_TOKEN=\"${{ secrets.TMDB_BEARER_TOKEN }}\"" > data/local.properties
     - name: Build with Gradle
       run: ./gradlew assembleDebug
     - name: Store artifacts
